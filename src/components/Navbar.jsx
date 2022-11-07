@@ -8,7 +8,7 @@ import {
   FundOutlined,
   MenuOutlined,
 } from "@ant-design/icons";
-import icon from "../images/cryptocurrency.png";
+import icon from "../images/crypto-coin1.jpg";
 import Item from "antd/lib/list/Item";
 
 const navbar = () => {
